@@ -5,6 +5,7 @@ import static org.junit.Assert.assertEquals;
 
 public class ReverseStringTest {
 
+
     @Test
     public void testAnEmptyString() {
         assertEquals("", new ReverseString().reverse(""));
