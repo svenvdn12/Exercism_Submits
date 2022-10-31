@@ -24,5 +24,6 @@ public class LogLevels {
         logLevel(logLine);
         return trailer + " ("+header+")";
 
+
     }
 }

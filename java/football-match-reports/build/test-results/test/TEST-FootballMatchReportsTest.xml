@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FootballMatchReportsTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-10-25T10:10:38" hostname="RMN00030" time="0.07">
+  <properties/>
+  <testcase name="test_goal" classname="FootballMatchReportsTest" time="0.062"/>
+  <testcase name="test_exception_negative_number" classname="FootballMatchReportsTest" time="0.005"/>
+  <testcase name="test_midfielder" classname="FootballMatchReportsTest" time="0.0"/>
+  <testcase name="test_striker" classname="FootballMatchReportsTest" time="0.0"/>
+  <testcase name="test_exception" classname="FootballMatchReportsTest" time="0.001"/>
+  <testcase name="test_right_back" classname="FootballMatchReportsTest" time="0.0"/>
+  <testcase name="test_right_wing" classname="FootballMatchReportsTest" time="0.0"/>
+  <testcase name="test_left_back" classname="FootballMatchReportsTest" time="0.0"/>
+  <testcase name="test_left_wing" classname="FootballMatchReportsTest" time="0.0"/>
+  <testcase name="test_center_back" classname="FootballMatchReportsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
